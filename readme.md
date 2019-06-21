@@ -1,18 +1,18 @@
-# repo-name
+# avents
 Paragraph of project description here.
 
-### [Find repo-name on NPM.](https://www.npmjs.com/package/repo-name)
+### [Find avents on NPM.](https://www.npmjs.com/package/avents)
 
 ## Installation
 Install from NPM with
 ```
-$ npm install --save repo-name
+$ npm install --save avents
 ```
 
 ## Basic Usage
 Basic usage instructions here.
 
 ## License
-repo-name is made available under the GNU General Public License v3.
+avents is made available under the GNU General Public License v3.
 
 Copyright (C) 2019 Trevor Sears

@@ -1,7 +1,7 @@
 {
-	"name": "repo-name",
+	"name": "avents",
 	"version": "0.1.0",
-	"description": "Project description here.",
+	"description": "Extensible and properly typed event handling.",
 	"main": "js/main",
 	"types": ".d.ts/main",
 	"scripts": {
@@ -10,15 +10,15 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/T99/repo-name.git"
+		"url": "git+https://github.com/T99/avents.git"
 	},
 	"keywords": [],
 	"author": "Trevor Sears <trevorsears.main@gmail.com> (http://trevorsears.io/)",
 	"license": "GPL-3.0-or-later",
 	"bugs": {
-		"url": "https://github.com/T99/repo-name/issues"
+		"url": "https://github.com/T99/avents/issues"
 	},
-	"homepage": "https://github.com/T99/repo-name#readme",
+	"homepage": "https://github.com/T99/avents#readme",
 	"devDependencies": {
 		"@types/jest": "latest",
 		"del": "latest",
