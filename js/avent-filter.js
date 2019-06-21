@@ -1,0 +1,1 @@
+"use strict";Object.defineProperty(exports,"__esModule",{value:!0});class AventFilter{constructor(e){this.filter=e}verify(e){return this.filter(e)}}exports.AventFilter=AventFilter;

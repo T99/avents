@@ -1,7 +1,7 @@
 /*
  *	Created by Trevor Sears <trevorsears.main@gmail.com>.
  *	10:53 PM -- June 11th, 2019.
- *	Project: repo-name
+ *	Project: avents
  */
 
 /**
@@ -12,4 +12,8 @@
  * @since v0.1.0
  */
 
-// export { ClassName } from "./class-location";
+export { AventSource }					from "./avent-source";
+export { AventNotifier }				from "./avent-notifier";
+export { AventConservativeNotifier }	from "./avent-conservative-notifier";
+export { AventSubscription }			from "./avent-subscription";
+export { AventFilter }					from "./avent-filter";
